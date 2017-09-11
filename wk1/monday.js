@@ -17,8 +17,8 @@
         ...
     }
 
-    Please provide me with at least 3 tests using console.log(dataTypeSort(arr)) with 3 different inputs. 
-    If possible, document your approach to the problem with comments.  
+    Please provide me with at least 3 unique tests using console.log(dataTypeSort(arr)). 
+    Document your approach to the problem with comments.  
 */
 
 
